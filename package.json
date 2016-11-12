@@ -1,0 +1,24 @@
+{
+  "name": "github-api-cache",
+  "version": "1.0.0",
+  "description": "Reverse proxy to cache GitHub API responses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machikoyasuda/github-api-cache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machikoyasuda/github-api-cache/issues"
+  },
+  "homepage": "https://github.com/machikoyasuda/github-api-cache#readme",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  }
+}
